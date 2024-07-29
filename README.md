@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Web Ccraping, Web Crawling, Fine-Tuning Large Language Models, Integrating ML into Web Applications using frameworks like Django and React.<br><br>👯 **I’m looking to collaborate on:**  <br>AI/ML, Web Development and Data Science <br><br>🌱 **I’m currently learning:**  <br>Advanced ML and Data Science Concepts<br><br>💬 **Ask me about:**  <br>AI/ML, React, Django, Research and Development<br><br>⚡ **Fun fact:**  <br> Balancing my passion for Tech with a love for gaming!
+🔭 **I’m currently working on:**  <br>Web Ccraping, Web Crawling, Fine-Tuning Large Language Models, Integrating ML into Web Applications using frameworks like Django and React.<br><br>👯 **I’m looking to collaborate on:**  <br>AI/ML, Web Development and Data Science <br><br>🌱 **I’m currently learning:**  <br>Advanced ML and Data Science Concepts<br><br>💬 **Ask me about:**  <br>AI/ML, React, Django, LLM, Gen AI, Langchain, Groq <br><br>⚡ **Fun fact:**  <br> Balancing my passion for Tech with a love for gaming!
 
 
 
