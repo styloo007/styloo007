@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Web Scraping, Web Crawling, Fine-Tuning LLMs, Integrating ML into Web Applications with frameworks like Django, Flask, Streamlit/Gradio, React etc.<br><br>👯 **I’m looking to collaborate on:**  <br>AI/ML, Web Development and Data Science <br><br>🌱 **I’m currently learning:**  <br>Advanced ML, Data Science Concepts and MLOps<br><br>💬 **Ask me about:**  <br>AI/ML, Django, Flask, Gradio/Streamlit, LLM, Gen AI, Langchain, RAG, Llama Index, Groq <br><br>⚡ **Fun fact:**  <br> Balancing my passion for Tech with a love for gaming!
+🔭 **I’m currently working on:**  <br>Web Scraping, Web Crawling, Fine-Tuning LLMs, Integrating ML into Web Applications with frameworks like Django, Flask, Streamlit/Gradio, React etc.<br><br>👯 **I’m looking to collaborate on:**  <br>AI/ML, Web Development and Data Science <br><br>🌱 **I’m currently learning:**  <br>Advanced ML, Data Science Concepts and MLOps<br><br>💬 **Ask me about:**  <br>AI/ML, FastAPI, Django, Flask, Gradio/Streamlit, LLM, Gen AI, Langchain, RAG, Llama Index, Groq <br><br>⚡ **Fun fact:**  <br> Balancing my passion for Tech with a love for gaming!
 
 
 
