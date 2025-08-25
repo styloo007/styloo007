@@ -25,7 +25,7 @@ AI Developer with hands-on experience building scalable AI solutions, leading mu
 ## 💬 Ask Me About
 AI/ML • FastAPI • Django • Flask • Gradio/Streamlit • LLMs • Gen AI • LangChain • RAG • LlamaIndex • Groq
 
-⚡ **Fun Fact:** Balancing my love for **tech & AI** with a passion for **cinema, film critique, and gaming** 🎮🎬
+⚡ **Fun Fact:** Balancing my love for **tech & AI** with a passion for **fitness, cinema, film critique, and gaming** 🎮🎬
 
 ---
 
