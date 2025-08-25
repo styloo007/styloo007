@@ -1,18 +1,91 @@
-# 💫 About Me:
-🔭 **I’m currently working on:**  <br>Web Scraping, Web Crawling, Fine-Tuning LLMs, Integrating ML into Web Applications with frameworks like Django, Flask, Streamlit/Gradio, React etc.<br><br>👯 **I’m looking to collaborate on:**  <br>AI/ML, Web Development and Data Science <br><br>🌱 **I’m currently learning:**  <br>Advanced ML, Data Science Concepts and MLOps<br><br>💬 **Ask me about:**  <br>AI/ML, FastAPI, Django, Flask, Gradio/Streamlit, LLM, Gen AI, Langchain, RAG, Llama Index, Groq <br><br>⚡ **Fun fact:**  <br> Balancing my passion for Tech with a love for gaming!
+# 👋 Hi, I'm Shashank Agasimani  
 
+🚀 **AI Developer | Full-Stack Enthusiast | Problem Solver**  
 
+AI Developer with hands-on experience in building scalable AI solutions, leading multi-disciplinary teams, managing infra, and delivering impactful products. Passionate about **AI/ML, Web Development, and Data Science**, and always curious to explore cutting-edge technologies like **Generative AI, RAG systems, and AI Agents**.  
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the.shashank.redemption) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shashankagasimani) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@styloo007) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20140839/styloo007) 
+---
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=styloo007&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=styloo007&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=styloo007&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🔭 What I'm Working On  
+- Web Scraping & Web Crawling  
+- Fine-Tuning LLMs & RAG Systems  
+- Integrating AI/ML into Web Apps (**Django, Flask, FastAPI, Streamlit/Gradio, React**)  
+- Scalable AI Deployments on **AWS & GCP**  
 
-### ✍️ Styloo's Quote
-Always Anticipate the Worst Case to Ensure Competitive Preparedness!
+## 👯 Open to Collaborate On  
+- AI/ML Research & Applications  
+- Web Development (Full-stack, AI-powered apps)  
+- Data Science & MLOps Projects  
 
+## 🌱 Currently Learning  
+- Advanced Machine Learning & MLOps  
+- AI Agents (LangChain, CrewAI, LlamaIndex, LangGraph)  
+- Cloud-Native AI Deployment  
+
+## 💬 Ask Me About  
+AI/ML • FastAPI • Django • Flask • Gradio/Streamlit • LLMs • Generative AI • LangChain • RAG • LlamaIndex • Groq  
+
+⚡ **Fun Fact:** Balancing my love for **tech & AI** with a passion for **cinema, film critique, and gaming** 🎮🎬  
+
+---
+
+## 🏆 Experience  
+
+**AI Developer – AntLabs (Remote)** | *Aug 2024 – Present*  
+- Led 3+ AI projects end-to-end (PRDs, architecture, infra, vendor/client management).  
+- Built and deployed a **RAG AI chatbot for PDFs** (>90% accuracy, 65% better than prior systems).  
+- Managed **AWS infra (EC2, RDS)** + CI/CD pipelines for robust deployments.  
+- 🏅 Recognized as **Best Employee of the Month (Q3 2024)**.  
+
+**AI/ML Developer Intern – AntLabs (Remote)** | *May 2024 – Aug 2024*  
+- Built high-precision **RAG chat system (>95%)**.  
+- Automated **SKU extraction pipeline** with Gemini API, OCR & Playwright (80% faster).  
+- Designed **AWS SQS pipeline** for real-time image processing (5× throughput).  
+
+**Python Developer Intern – HAEGL Technologies** | *Jan 2024 – Apr 2024*  
+- Developed **Django + React app** for environmental sensor data → improved crop yield forecasts by 75%.  
+- Built **EasyStudent platform** → boosted admin efficiency by 60%.  
+
+**AI/ML Project Intern – Spicer India** | *Sept 2022 – Mar 2023*  
+- Developed **CV model** for surface roughness (92% accuracy).  
+- Created **Tkinter GUI** reducing operator time by 50%.  
+
+---
+
+## 📚 Publications  
+1. [Panoptic Driving Perception using Deep Learning Techniques](https://link.springer.com/chapter/10.1007/978-981-99-5792-7_12) – *Springer, Oct 2023*  
+2. [Vision Based OCR using YOLOv5 + EasyOCR](https://ieeexplore.ieee.org/document/10126305/) – *IEEE, Apr 2023*  
+
+---
+
+## 💻 Tech Stack  
+
+**Languages:** Python, C, C++, Java, R, JavaScript, TypeScript, SQL, HTML, CSS, LaTeX, YAML  
+**Frameworks & Libraries:** Django, Flask, FastAPI, React.js, Node.js, Express, PyTorch, TensorFlow, scikit-learn  
+**AI/ML Tools:** LangChain, LlamaIndex, LangGraph, CrewAI, PhiData, Haystack, AutoGen  
+**Databases:** MySQL, PostgreSQL, MongoDB, SQLite, Neo4j, ChromaDB, Pinecone  
+**Cloud & DevOps:** AWS, GCP, Docker, CI/CD, Git/GitHub  
+**Data & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, MLflow  
+**Others:** OpenCV, Arduino, Jupyter, VS Code, Overleaf  
+
+---
+
+## 📊 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=styloo007&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=styloo007&theme=dracula&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=styloo007&theme=dracula&hide_border=false&layout=compact)  
+
+---
+
+## 🌐 Connect With Me  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](http://styloo007.pythonanywhere.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shashankagasimani)  
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/styloo007)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@styloo007)  
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20140839/styloo007)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the.shashank.redemption)  
+
+---
+
+### ✍️ Quote I Believe In  
+💡 *"Always anticipate the worst case to ensure competitive preparedness!"*  
